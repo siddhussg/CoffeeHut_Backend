@@ -1,2 +1,6 @@
-
-Coffeehut_wallet private to the loyal users
+- Credit Card
+- Debit Card
+- Net Banking
+- PayPal
+- Mobile Wallet
+- Cash on Delivery
